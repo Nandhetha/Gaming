@@ -1,0 +1,10 @@
+
+*.exe
+*.o
+*.out
+*.obj
+*.elf
+*.bin
+*.iso
+.vscode/
+.DS_Store
